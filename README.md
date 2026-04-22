@@ -34,17 +34,6 @@ Passive investing provides comparable returns **without the added costs**, makin
 
 ---
 
-## Structure
-
-```
-paper/      # Final research paper  
-code/       # Analysis scripts / notebook  
-data/       # Dataset (if included)  
-results/    # Tables and outputs  
-```
-
----
-
 ## Link
 
 Analysis code: https://github.com/ceskelsen13/capstone_SIM

@@ -31,9 +31,3 @@ This repository contains a research paper analyzing whether **actively managed m
 ## Conclusion
 
 Passive investing provides comparable returns **without the added costs**, making it a more effective long-term strategy for most investors.
-
----
-
-## Link
-
-Analysis code: https://github.com/ceskelsen13/capstone_SIM
